@@ -1,10 +1,13 @@
-const languages = ['en', 'en-US', 'zh', 'zh-CN'];
+const languages = [['en-US', 'zh-CN'], ['en', 'zh']];
 
 if (window.navigator.languages) {
-  window.navigator.languages.some((l) => {
-    if (languages.includes(l)) {
-      window.location.replace(`${l}/`);
-      return true;
-    }
+  languages.some((al) => {
+    return window.navigator.languages.some((l) => {
+      if (al.includes(l)) {
+        window.location.replace(`${l}/`);
+        return true;
+      }
+      return false;
+    });
   });
 }
