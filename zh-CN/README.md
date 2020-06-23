@@ -55,6 +55,13 @@
 - <i class="fab fa-android" title="Android"></i> **Android** [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ([Max Lv @madeye](https://github.com/madeye))
 
 
+### HTTPS Based
+> 伪装成普通网站，通过 TLS + WebSocket 等 Web 常见协议传输数据
+
+- **[Project V](https://www.v2ray.com/)** [v2ray/v2ray-core: A platform for building proxies to bypass network restrictions.](https://github.com/v2ray/v2ray-core)
+- **[Trojan](https://trojan-gfw.github.io/trojan/)** [trojan-gfw/trojan: An unidentifiable mechanism that helps you bypass GFW.](https://github.com/trojan-gfw/trojan)
+
+
 ## [CC-BY-4.0 许可协议](CC-BY-4.0.html)
 <a rel="license" href="https://i.creativecommons.org/l/by/4.0/88x31.png"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="right" /></a>
 本作品采用<a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.zh-Hans">知识共享署名 4.0 国际许可协议</a>进行许可。
