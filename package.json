@@ -1,0 +1,29 @@
+{
+  "name": "awesome-gfw",
+  "version": "0.0.0",
+  "description": "A curated list of awesome Internet censorship circumvention software technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxh06/awesome-gfw.git"
+  },
+  "keywords": [
+    "awesome-list",
+    "censorship-circumvention",
+    "gfw"
+  ],
+  "author": "汪心禾",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/wxh06/awesome-gfw/issues"
+  },
+  "homepage": "https://github.com/wxh06/awesome-gfw",
+  "devDependencies": {
+    "eslint": "^5.16.0 || ^6.8.0 || ^7.2.0",
+    "eslint-config-airbnb-base": "latest",
+    "eslint-plugin-import": "^2.21.2"
+  }
+}
