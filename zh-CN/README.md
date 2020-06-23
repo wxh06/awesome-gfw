@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="main.css" />
 # awesome-gfw
 突破网络审查（翻墙）软件技术的 Awesome List
 
@@ -47,16 +48,10 @@
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) ([ty @zonyitoo](https://github.com/zonyitoo)) - Shadowsocks 的 Rust 实现
 
 #### 客户端
-<style>
-  img.inline {
-    height: 1em;
-    vertical-align: -0.1em;
-  }
-</style>
-- <img class="inline" alt="Windows logo - 2012 derivative.svg" src="wikimedia/commons/Windows_logo_-_2012_derivative.svg" /> **Windows** [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) ([Allen Zhu @celeron533](https://github.com/celeron533))
-- <img class="inline" alt="Apple logo grey.svg" src="wikimedia/commons/Apple_logo_grey.svg" /> **macOS** [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) ([Qiu Yuzhou @qiuyuzhou](https://github.com/qiuyuzhou))<br />
+- <div class="inline square"><img class="fluid" alt="Windows logo - 2012 derivative.svg" src="wikimedia/commons/Windows_logo_-_2012_derivative.svg" /></div> **Windows** [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) ([Allen Zhu @celeron533](https://github.com/celeron533))
+- <div class="inline square"><img class="fluid" alt="Apple logo grey.svg" src="wikimedia/commons/Apple_logo_grey.svg" /></div> **macOS** [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) ([Qiu Yuzhou @qiuyuzhou](https://github.com/qiuyuzhou))<br />
   ~~**iOS** & **Mac OS X** Original [shadowsocks-iOS (ShadowsocksX)](https://github.com/shadowsocks/shadowsocks-iOS/tree/master) by [@clowwindy](https://github.com/clowwindy)~~
-- <img class="inline" alt="Android robot.svg" src="wikimedia/commons/Android_robot.svg"> **Android** [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ([Max Lv @madeye](https://github.com/madeye))
+- <div class="inline square"><img class="fluid" alt="Android robot.svg" src="wikimedia/commons/Android_robot.svg" /></div> **Android** [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ([Max Lv @madeye](https://github.com/madeye))
 
 
 ## [CC-BY-4.0 许可协议](CC-BY-4.0.html)
