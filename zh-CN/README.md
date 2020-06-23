@@ -49,10 +49,10 @@
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) ([ty @zonyitoo](https://github.com/zonyitoo)) - Shadowsocks 的 Rust 实现
 
 #### 客户端
-- <i class="fab fa-windows" title="Windows"></i> **Windows** [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) ([Allen Zhu @celeron533](https://github.com/celeron533))
-- <i class="fab fa-apple" title="Apple"></i> **macOS** [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) ([Qiu Yuzhou @qiuyuzhou](https://github.com/qiuyuzhou))<br />
-  ~~**iOS** & **Mac OS X** Original [shadowsocks-iOS (ShadowsocksX)](https://github.com/shadowsocks/shadowsocks-iOS/tree/master) by [@clowwindy](https://github.com/clowwindy)~~
-- <i class="fab fa-android" title="Android"></i> **Android** [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ([Max Lv @madeye](https://github.com/madeye))
+- <i class="fab fa-windows" title="Windows"> Windows</i> **[shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)** ([Allen Zhu @celeron533](https://github.com/celeron533))
+- <i class="fab fa-apple" title="Apple"> macOS</i> **[ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)** ([Qiu Yuzhou @qiuyuzhou](https://github.com/qiuyuzhou))<br />
+  ~~*iOS* & *Mac OS X* Original **[shadowsocks-iOS (ShadowsocksX)](https://github.com/shadowsocks/shadowsocks-iOS/tree/master)** by [@clowwindy](https://github.com/clowwindy)~~
+- <i class="fab fa-android" title="Android"> Android</i> **[shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)** ([Max Lv @madeye](https://github.com/madeye))
 - <i class="fab fa-android" title="Android"> Android</i> & <i class="fab fa-windows" title="Windows"> Windows</i> & <i class="fab fa-chrome" title="Chrome OS"> Chrome OS</i> & <i class="fab fa-apple" title="Apple"> iOS</i> & <i class="fab fa-apple" title="Apple"> macOS</i> & <i class="fab fa-linux" title="Linux"> Linux</i>
   **[Outline](https://getoutline.org/zh-CN/home)**
   [Jigsaw-Code/outline-client: Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.](https://github.com/Jigsaw-Code/outline-client)
