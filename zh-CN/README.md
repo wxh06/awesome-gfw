@@ -37,15 +37,15 @@
 [GitHub 仓库列表](https://github.com/shadowsocks)
 #### Library
 各语言的命令行界面实现，可以作为 lib（库）调用，同时包含[服务器](https://shadowsocks.org/en/download/servers.html)和[客户端](https://shadowsocks.org/en/download/clients.html)
-- [shadowsocks](https://github.com/shadowsocks/shadowsocks/tree/master) [@clowwindy](https://github.com/clowwindy) - Python 的原始实现，易于部署，功能较为**基础**，基本不再维护。
-- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) [Max Lv @madeye](https://github.com/madeye) - 基于 libev 的 C 语言“轻量级”的**完整**官方实现
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) [ty @zonyitoo](https://github.com/zonyitoo) - Shadowsocks 的 Rust 实现
+- [shadowsocks](https://github.com/shadowsocks/shadowsocks/tree/master) ([@clowwindy](https://github.com/clowwindy)) - Python 的原始实现，易于部署，功能较为**基础**，基本不再维护。
+- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) ([Max Lv @madeye](https://github.com/madeye)) - 基于 libev 的 C 语言“轻量级”的**完整**官方实现
+- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) ([ty @zonyitoo](https://github.com/zonyitoo)) - Shadowsocks 的 Rust 实现
 
 #### [客户端](https://shadowsocks.org/en/download/clients.html)
-- **Windows** [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) [Allen Zhu @celeron533](https://github.com/celeron533)
-- **macOS** [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) [Qiu Yuzhou @qiuyuzhou](https://github.com/qiuyuzhou) 
-  ~~Original [shadowsocks-iOS (ShadowsocksX)](https://github.com/shadowsocks/shadowsocks-iOS/tree/master) by [@clowwindy](https://github.com/clowwindy)~~
-- **Android** [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) [Max Lv @madeye](https://github.com/madeye)
+- **Windows** [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) ([Allen Zhu @celeron533](https://github.com/celeron533))
+- **macOS** [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) ([Qiu Yuzhou @qiuyuzhou](https://github.com/qiuyuzhou))<br />
+  ~~**iOS** & **Mac OS X** Original [shadowsocks-iOS (ShadowsocksX)](https://github.com/shadowsocks/shadowsocks-iOS/tree/master) by [@clowwindy](https://github.com/clowwindy)~~
+- **Android** [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ([Max Lv @madeye](https://github.com/madeye))
 
 
 ## [CC-BY-4.0 许可协议](CC-BY-4.0.html)
