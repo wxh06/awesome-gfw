@@ -30,18 +30,23 @@
 - [SSL/TLS](https://zh.wikipedia.org/zh-cn/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E6%80%A7%E5%8D%94%E5%AE%9A)（[OpenVPN](https://zh.wikipedia.org/zh-cn/OpenVPN)）
 
 
-### [Shadowsocks](https://shadowsocks.org/en/)
+### Shadowsocks
 > **影梭**，[最初](https://github.com/clowwindy/shadowsocks/tree/master)由 [@clowwindy](https://github.com/clowwindy) 使用 [Python](https://www.python.org/) 开发，后迫于公安部门压力（“被请去喝茶”）[移除](https://github.com/shadowsocks/shadowsocks/blob/rm/README.md)。
 > 其[基于 libev 的 C 语言官方实现](https://github.com/shadowsocks/shadowsocks-libev)现主要由 [@madeye (Max Lv)](https://github.com/madeye) 开发维护。
->
-> [GitHub 仓库列表](https://github.com/shadowsocks)
+
+#### 外部链接
+- [Shadowsocks 影梭 - 安全的 socks5 代理](https://shadowsocks.org/en/)
+- [GitHub 仓库](https://github.com/shadowsocks)
+- [服务器 - Shadowsocks](https://shadowsocks.org/en/download/servers.html)
+- [客户端 - Shadowsocks](https://shadowsocks.org/en/download/clients.html)
+
 #### Library
-各语言的命令行界面实现，可以作为 lib（库）调用，同时包含[服务器](https://shadowsocks.org/en/download/servers.html)和[客户端](https://shadowsocks.org/en/download/clients.html)
+各语言的命令行界面实现，可以作为 **lib**（库）调用，同时包含**服务器**和**客户端**
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks/tree/master) ([@clowwindy](https://github.com/clowwindy)) - Python 的原始实现，易于部署，功能较为**基础**，基本不再维护。
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) ([Max Lv @madeye](https://github.com/madeye)) - 基于 libev 的 C 语言“轻量级”的**完整**官方实现
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) ([ty @zonyitoo](https://github.com/zonyitoo)) - Shadowsocks 的 Rust 实现
 
-#### [客户端](https://shadowsocks.org/en/download/clients.html)
+#### 客户端
 - **Windows** [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) ([Allen Zhu @celeron533](https://github.com/celeron533))
 - **macOS** [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) ([Qiu Yuzhou @qiuyuzhou](https://github.com/qiuyuzhou))<br />
   ~~**iOS** & **Mac OS X** Original [shadowsocks-iOS (ShadowsocksX)](https://github.com/shadowsocks/shadowsocks-iOS/tree/master) by [@clowwindy](https://github.com/clowwindy)~~
