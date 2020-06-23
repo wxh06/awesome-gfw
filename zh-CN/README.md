@@ -31,10 +31,10 @@
 
 
 ### [Shadowsocks](https://shadowsocks.org/en/)
-影梭，[最初](https://github.com/clowwindy/shadowsocks/tree/master)由 [@clowwindy](https://github.com/clowwindy) 使用 [Python](https://www.python.org/) 开发，后迫于公安部门压力（“被请去喝茶”）[移除](https://github.com/shadowsocks/shadowsocks/blob/rm/README.md)。
-其[基于 libev 的 C 语言官方实现](https://github.com/shadowsocks/shadowsocks-libev)现主要由 [@madeye (Max Lv)](https://github.com/madeye) 开发维护。
-
-[GitHub 仓库列表](https://github.com/shadowsocks)
+> **影梭**，[最初](https://github.com/clowwindy/shadowsocks/tree/master)由 [@clowwindy](https://github.com/clowwindy) 使用 [Python](https://www.python.org/) 开发，后迫于公安部门压力（“被请去喝茶”）[移除](https://github.com/shadowsocks/shadowsocks/blob/rm/README.md)。
+> 其[基于 libev 的 C 语言官方实现](https://github.com/shadowsocks/shadowsocks-libev)现主要由 [@madeye (Max Lv)](https://github.com/madeye) 开发维护。
+>
+> [GitHub 仓库列表](https://github.com/shadowsocks)
 #### Library
 各语言的命令行界面实现，可以作为 lib（库）调用，同时包含[服务器](https://shadowsocks.org/en/download/servers.html)和[客户端](https://shadowsocks.org/en/download/clients.html)
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks/tree/master) ([@clowwindy](https://github.com/clowwindy)) - Python 的原始实现，易于部署，功能较为**基础**，基本不再维护。
