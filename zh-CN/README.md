@@ -24,7 +24,7 @@
 ## 软件技术
 
 ### hosts
-> `/etc/hosts` 是操作系统文本配置文件，以表的形式存储**主机名**与 **IP 地址**的映射
+> [`/etc/hosts`](https://zh.wikipedia.org/zh-cn/Hosts%E6%96%87%E4%BB%B6) 是操作系统文本配置文件，以表的形式存储**主机名**与 **IP 地址**的映射
 
 - **[googlehosts/hosts](https://github.com/googlehosts/hosts)**
   - [CODING 镜像](https://scaffrey.coding.net/public/hosts/hosts/git)
