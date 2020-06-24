@@ -49,6 +49,11 @@
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) ([ty @zonyitoo](https://github.com/zonyitoo)) - Shadowsocks 的 Rust 实现
 
 #### 客户端
+<style>
+  i {
+    font-style: italic !important;
+  }
+</style>
 - <i class="fab fa-windows" title="Windows"> Windows</i> **[shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)** ([Allen Zhu @celeron533](https://github.com/celeron533))
 - <i class="fab fa-apple" title="Apple"> macOS</i> **[ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)** ([Qiu Yuzhou @qiuyuzhou](https://github.com/qiuyuzhou))<br />
   ~~*iOS* & *Mac OS X* Original **[shadowsocks-iOS (ShadowsocksX)](https://github.com/shadowsocks/shadowsocks-iOS/tree/master)** by [@clowwindy](https://github.com/clowwindy)~~
