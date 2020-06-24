@@ -1,4 +1,6 @@
 # awesome-gfw
+[![Node.js CI](https://github.com/wxh06/awesome-gfw/workflows/Node.js%20CI/badge.svg)](https://github.com/wxh06/awesome-gfw/actions?query=workflow%3A%22Node.js+CI%22)
+
 突破网络审查（翻墙）软件技术的 Awesome List
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
