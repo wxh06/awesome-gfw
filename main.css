@@ -1,0 +1,9 @@
+/* Font Awesome */
+
+.fa, .fab, .fad, .fal, .far, .fas {
+  font-style: italic !important;
+}
+
+.fa:before, .fab:before, .fad:before, .fal:before, .far:before, .fas:before {
+  font-style: normal !important;
+}
