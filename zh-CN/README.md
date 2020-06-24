@@ -2,7 +2,7 @@
 突破网络审查（翻墙）软件技术的 Awesome List
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="{{ '/main.css?v=' | append: site.github.build_revision | relative_url }}">
 
 ## 前言
 ### [关于中国的互联网](https://github.com/kelthuzadx/hosts/wiki/%E5%85%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91)
