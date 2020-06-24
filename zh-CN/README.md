@@ -24,7 +24,7 @@
 ## 软件技术
 
 ### VPN（反对）
-> 虛拟私人网络（Virtual Private Network，缩写 VPN）
+> **[虛拟私人网络](https://zh.wikipedia.org/zh-cn/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF)**（Virtual Private Network，缩写 VPN）
 
 #### 常见协议
 - [PPTP](https://zh.wikipedia.org/zh-cn/%E9%BB%9E%E5%B0%8D%E9%BB%9E%E9%9A%A7%E9%81%93%E5%8D%94%E8%AD%B0)
@@ -59,7 +59,7 @@
 
 
 ### HTTPS Based
-> 伪装成普通网站，通过 TLS + WebSocket 等 Web 常见协议传输数据
+> 伪装成普通网站，通过 **TLS** + **[WebSocket](https://zh.wikipedia.org/zh-cn/WebSocket)** 等 Web 常见协议传输数据
 
 - **[Project V](https://www.v2ray.com/)** [v2ray/v2ray-core: A platform for building proxies to bypass network restrictions.](https://github.com/v2ray/v2ray-core)
 - **[Trojan](https://trojan-gfw.github.io/trojan/)** [trojan-gfw/trojan: An unidentifiable mechanism that helps you bypass GFW.](https://github.com/trojan-gfw/trojan)
