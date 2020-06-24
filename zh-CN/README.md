@@ -45,9 +45,10 @@
 #### Library
 > 各语言的命令行界面实现，可以作为 **lib**（库）调用，同时包含**服务器**和**客户端**
 
-- [shadowsocks](https://github.com/shadowsocks/shadowsocks/tree/master) ([@clowwindy](https://github.com/clowwindy)) - Python 的原始实现，易于部署，功能较为**基础**，基本不再维护。
-- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) ([Max Lv @madeye](https://github.com/madeye)) - 基于 libev 的 C 语言“轻量级”的**完整**官方实现
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) ([ty @zonyitoo](https://github.com/zonyitoo)) - Shadowsocks 的 Rust 实现
+- **[shadowsocks](https://github.com/shadowsocks/shadowsocks/tree/master)** ([@clowwindy](https://github.com/clowwindy)) - <i class="fab fa-python" title="Python">Python</i> 的原始实现，易于部署，功能较为**基础**，基本不再维护。
+- **[shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)** ([Max Lv @madeye](https://github.com/madeye)) - 基于 libev 的 *C 语言*“轻量级”的**完整**官方实现
+- **[shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)** ([ty @zonyitoo](https://github.com/zonyitoo)) - Shadowsocks 的 <i class="fab fa-rust" title="Rust">Rust</i> 实现
+- **[go-shadowsocks2](https://github.com/riobard/go-shadowsocks2)** ([Rio @riobard](https://github.com/riobard)) - 其新的 *Go 语言*实现
 
 #### 客户端
 - <i class="fab fa-windows" title="Windows"> Windows</i> **[shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)** ([Allen Zhu @celeron533](https://github.com/celeron533))
