@@ -27,6 +27,8 @@
 > `/etc/hosts` 是操作系统文本配置文件，以表的形式存储**主机名**与 **IP 地址**的映射
 
 - **[googlehosts/hosts](https://github.com/googlehosts/hosts)**
+  - [CODING 镜像](https://scaffrey.coding.net/public/hosts/hosts/git)
+  - ~~[QVQNetwork 镜像](https://git.qvq.network/googlehosts/hosts)~~
 
 
 ### VPN（反对）
