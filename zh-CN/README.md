@@ -50,8 +50,11 @@
 
 #### 客户端
 <style>
-  i {
+  .fa, .fab, .fad, .fal, .far, .fas {
     font-style: italic !important;
+  }
+  .fa:before, .fab:before, .fad:before, .fal:before, .far:before, .fas:before {
+    font-style: normal;
   }
 </style>
 - <i class="fab fa-windows" title="Windows"> Windows</i> **[shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)** ([Allen Zhu @celeron533](https://github.com/celeron533))
