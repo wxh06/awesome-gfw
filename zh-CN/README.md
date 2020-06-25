@@ -34,6 +34,13 @@
   - ~~[QVQNetwork 镜像](https://git.qvq.network/googlehosts/hosts)~~
 
 
+### SNI
+> 以某些方式规避 GFW 的 SNI RST，避免使用代理服务器
+
+- [URenko/Accesser: 🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具 | A tool for solving SNI RST](https://github.com/URenko/Accesser)
+
+
+
 ### VPN（反对）
 > **[虛拟私人网络](https://zh.wikipedia.org/zh-cn/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF)**（Virtual Private Network，缩写 VPN）
 
