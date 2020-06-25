@@ -37,7 +37,7 @@
 ### SNI
 > 以某些方式规避 GFW 的 SNI RST，避免使用代理服务器
 
-- [URenko/Accesser: 🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具 | A tool for solving SNI RST](https://github.com/URenko/Accesser)
+- [URenko/Accesser: 🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具 \| A tool for solving SNI RST](https://github.com/URenko/Accesser)
 
 
 
