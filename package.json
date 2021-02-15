@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/wxh06/awesome-gfw",
   "devDependencies": {
-    "eslint": "^7.14.0",
+    "eslint": "^7.20.0",
     "eslint-config-airbnb-base": "latest",
     "eslint-plugin-import": "^2.22.1"
   }
